@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MySQL, Tableau, VBA Macros**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
+- 👨‍💻 All of my works till now are available at [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
 
 - 📫 How to reach me **ektas1612@gmail.com**
 
