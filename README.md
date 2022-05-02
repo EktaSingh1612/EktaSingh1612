@@ -74,13 +74,13 @@ Here are some ideas to get you started:
   <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
 <a href="https://github.com/EktaSingh1612/img-shields-io">
-  <img align="center" src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/streamlit_logo.png" width="150"/>
+  <img align="center" src="https://github.com/ShruAgarwal/EktaSingh1612-1/blob/main/streamlit_logo.png" width="150"/>
 </a>
 </p>
 
 
 
 <h2 align="center">📈 Activity</h2>
-<a href="https://github.com/EktaSingh1612/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ParthGohil21&theme=material-palenight" /> </a>
+<a href="https://github.com/EktaSingh1612/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=EktaSingh1612&theme=material-palenight" /> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektasingh1612&show_icons=true&locale=en&layout=compact" alt="ektasingh1612" /></p>
