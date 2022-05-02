@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 <!--<h3 align="center">A passionate Data Analyst</h3>-->
 <p align="center">
-  <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20A%20Passionate%20Data%20Analyst%20from%20India!;Always%20ready%20to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20A%20Passionate%20Data%20Analyst%20from%20India!;A%20Always%20ready%20to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social media handles -->
@@ -42,14 +42,7 @@ Here are some ideas to get you started:
   - 📥 Reach out me through my mail: **ektas1612@gmail.com**
   - 👨‍💻 Just one click to view all of my social media handles [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
   
-  
 </p>
-
-- 🌱 I’m currently learning **MySQL, Tableau, VBA Macros**
-
-- 👨‍💻 All of my works till now are available at [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
