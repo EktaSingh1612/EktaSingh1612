@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h2>
 <!--<h3 align="center">A passionate Data Analyst</h3>-->
 <p align="center">
-  <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20A%20Passionate%20Data%20Analyst%20from%20India!;A%20Always%20ready%20to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20A%20Passionate%20Data%20Analyst%20from%20India!;A%20Always%20ready%20to%20learn%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social media handles -->
@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/EktaSingh1612/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 </a>
-<a href="https://github.com/EktaSingh1612/img-shields-io">
+<!--<a href="https://github.com/EktaSingh1612/img-shields-io">
   <img align="center" src="https://github.com/ShruAgarwal/EktaSingh1612-1/blob/main/streamlit_logo.png" width="150"/>
-</a>
+</a>-->
 </p>
 
 
