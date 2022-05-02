@@ -14,16 +14,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ekta Singh</h1>
-<h3 align="center">A passionate Data Analyst</h3>
 
-<p align="left"> <a href="https://twitter.com/ektasingh1612" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh1612?logo=twitter&style=for-the-badge" alt="ektasingh1612" /></a> </p>
+<h2 align="center">
+  Hey folks!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+<!--<h3 align="center">A passionate Data Analyst</h3>-->
+<p align="center">
+  <a href="https://github.com/EktaSingh1612/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Ekta;A%20Passionate%20Data%20Analyst%20from%20India!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+<!-- Social media handles -->
+<p align="left"> <a href="https://twitter.com/ektasingh1612" target="blank"><img src="https://img.shields.io/twitter/follow/ektasingh1612?logo=twitter&style=for-the-badge" alt="ektasingh1612" /></a> 
+
+</a>
+  <a href="https://www.linkedin.com/in/prthgo/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://www.kaggle.com/parth215">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+</p>
+
+<!-- About me section-->
+<h2 align="center"> ABOUT ME </h2>
+<p align="center">
+  
+  - 👋 Hello, I'm Ekta
+  - 🤖 Data Analyst.
+  - 🧠 Currently focusing on Model Training and Model Validation in general.
+  - ❤️‍🔥 Kaggler by heart.
+  - 🗾 Loves to learn different business case-studies.
+  - 🏫 Post-Graduate in Mechanical Engineering (I know what you're thinking).
+  - 🤗 Always excited to collaborate and growing together.
+  - 📥 Reach out me through my mail: **ektas1612@gmail.com**
+  - 👨‍💻 Just one click to view all of my social media handles [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
+  
+  
+</p>
 
 - 🌱 I’m currently learning **MySQL, Tableau, VBA Macros**
 
 - 👨‍💻 All of my works till now are available at [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
 
-- 📫 How to reach me **ektas1612@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
