@@ -1,19 +1,5 @@
-<!--### Hi there 👋 I am a Data Analyst & here's what I am Working On!
 
 
-**EktaSingh1612/EktaSingh1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MySQL, MS Excel, VBA Macros, Python, Numpy, Pandas, Matplotlib, Seaborn, Sk-Learn, Tableau
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h2 align="center">
   Hey folks!
@@ -35,8 +21,7 @@ Here are some ideas to get you started:
   - 👋 Hello, I'm Ekta
   - 🤖 Data Analyst.
   - 🧠 Currently focusing on Model Training and Model Validation in general.
-  - ❤️‍🔥 Kaggler by heart.
-  - 🗾 Loves to learn different business case-studies.
+  - 🗾 Loves to learn about different business case-studies.
   - 🏫 Post-Graduate in Mechanical Engineering (I know what you're thinking).
   - 🤗 Always excited to collaborate and growing together.
   - 📥 Reach out me through my mail: **ektas1612@gmail.com**
