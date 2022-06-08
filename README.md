@@ -19,13 +19,13 @@
 <p align="center">
   
   - 👋 Hello, I'm Ekta
-  - 🤖 Data Analyst.
-  - 🧠 Currently focusing on Model Training and Model Validation in general.
+  - 🤖 Looking for internship as a Data Analyst.
+  - 🧠 Currently focusing on learning Model Training and Model Validation.
   - 🗾 Loves to learn about different business case-studies.
-  - 🏫 Post-Graduate in Mechanical Engineering (I know what you're thinking).
+  - 🏫 Post-Graduate in Mechanical Engineering.
   - 🤗 Always excited to collaborate and growing together.
   - 📥 Reach out me through my mail: **ektas1612@gmail.com**
-  - 👨‍💻 Just one click to view all of my social media handles [https://linktr.ee/EktaSingh1612](https://linktr.ee/EktaSingh1612)
+  - 👨‍💻 Just one click to view all of my social media handles [Linktree](https://linktr.ee/EktaSingh1612)
   
 </p>
 
