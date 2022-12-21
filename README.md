@@ -69,4 +69,4 @@
 <a href="https://github.com/EktaSingh1612/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=EktaSingh1612&theme=material-palenight" /> </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektasingh1612&show_icons=true&locale=en&layout=compact" alt="ektasingh1612" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=srikarmk&theme=tokyonight&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=srikarmk&theme=tokyonight&hide_border=false)<br/>--!>
